@@ -50,12 +50,12 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 
  
 # Moje projekty
-* indywidualny - testowanie strony aplikacji listonic - projekt zrealizowany podczas kursu Szkoła testerów QA-courses  mający na celu wprowadzenie do świata testera  oprogramowania.  
+* indywidualny - testowanie strony aplikacji Listonic - projekt zrealizowany podczas kursu Szkoła testerów QA-courses  mający na celu wprowadzenie do świata testera  oprogramowania.  
 
-  * [mapa myśli](https://drive.google.com/drive/folders/1LJ6W82kEvDo74c7Bfwr6uW-dfdsObfs8)
-  * [przypadki testowe](https://docs.google.com/spreadsheets/d/1idT7Ri_q2yWqp_8HM8TKoziOOvCiXoVg/edit#gid=1505753429)
-  * [zgłoszone błędy](https://docs.google.com/document/d/1q2mYIH_v13Q50gC_KS7dXJotULh1ZABQ/edit)
-  * [zgłaszane ulepszenia](https://docs.google.com/document/d/1nWc_ZWM1ZsAMo7Bn--YvCSj7Z6Sxgkb1/edit?rtpof=true)
+  * [mapa myśli](https://drive.google.com/file/d/1nooiOwCVmz2-rwwDmIEf66zJ-KX8WiZ9/view?usp=sharing)
+  * [przypadki testowe](https://docs.google.com/spreadsheets/d/1idT7Ri_q2yWqp_8HM8TKoziOOvCiXoVg/edit?usp=sharing&ouid=101482524898759088533&rtpof=true&sd=true)
+  * [zgłoszone błędy](https://docs.google.com/document/d/1q2mYIH_v13Q50gC_KS7dXJotULh1ZABQ/edit?usp=sharing&ouid=101482524898759088533&rtpof=true&sd=true)
+  * [zgłaszane ulepszenia](https://docs.google.com/document/d/1nWc_ZWM1ZsAMo7Bn--YvCSj7Z6Sxgkb1/edit?usp=sharing&ouid=101482524898759088533&rtpof=true&sd=true)
   * testowanie dokumentacji: [przypadki użycia](https://docs.google.com/document/d/1KC3LaZTHSrww3INGvQ6gM5F53eMlkn2n/edit), [tablica prześć pomiedzy stanami](https://drive.google.com/drive/folders/1LJ6W82kEvDo74c7Bfwr6uW-dfdsObfs8)
   * [certyfikat](https://drive.google.com/drive/my-drive)
 
