@@ -3,11 +3,11 @@
 
 # O mnie
 Jestem magistrem chemii, zajmującym się przez kilka lat kontrolą jakości produktów żywnościowych. 
-Obecnie pracuję w laboratorium medycznym, ale w oststnim czasie zaczęłam   zgłebiać temat oprogramowania. Chciałabym rozwijać się w tym kierunku. 
+Obecnie pracuję w laboratorium medycznym, ale w ostatnim czasie zaczęłam zgłebiać temat testowania oprogramowania. Chciałabym rozwijać się w tym kierunku. 
 Jestem osobą odpowiedzialną i zaangażowaną w realizację powierzonych mi zadań. 
 W dotyczchasowej pracy zawodowej zajmowałam się analizą danych, weryfikacją zgodności z dokumentacją jakościową.  
 Moim celem jest zdobycie nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
-Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej pracy zawodowej pomoga mi w realizacji tych założeń.
+Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej pracy zawodowej pomogą mi w realizacji tych założeń.
 
 # Narzędzia
 * Zarządzanie projektem, śledzenie błedów: JIRA, Trello
@@ -25,7 +25,6 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 * Analiza dokumentacji technicznej: tworzenie diagramów, tworzenie przypadków użycia, map myśli
 * Podstawowa wiedza dotycząca HTML, CSS, JavaScript, jQuery
 * SCRUM
-
 
 # Kursy
 * [SZKOŁA TESTERÓW QA-COURSES](https://qa-courses.com/szkola-testerow)
@@ -47,7 +46,6 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 
 # Moje przykładowe prace
 * [scenariusz testowy - strona pogoda.onet.pl](https://drive.google.com/file/d/1YqkzfenbhWwTTgPo0vOkc093gFkvrcRt/view?usp=sharing)
-
  
 # Moje projekty
 * indywidualny - testowanie strony aplikacji Listonic - projekt zrealizowany podczas kursu Szkoła testerów QA-courses  mający na celu wprowadzenie do świata testera  oprogramowania.  
