@@ -46,24 +46,24 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 * [cherry-IT](http://cherry-it.pl)
 
 # Moje przykładowe prace
-* [scenariusz testowy - strona pogoda.onet.pl](https://docs.google.com/spreadsheets/d/1SXCINjDphb5CDYrWAelEgwd2bh03joih/edit#gid=1547373022)
+* [scenariusz testowy - strona pogoda.onet.pl](https://drive.google.com/file/d/1YqkzfenbhWwTTgPo0vOkc093gFkvrcRt/view?usp=sharing)
 
  
 # Moje projekty
 * indywidualny - testowanie strony aplikacji Listonic - projekt zrealizowany podczas kursu Szkoła testerów QA-courses  mający na celu wprowadzenie do świata testera  oprogramowania.  
 
-  * [mapa myśli](https://drive.google.com/file/d/1nooiOwCVmz2-rwwDmIEf66zJ-KX8WiZ9/view?usp=sharing)
-  * [przypadki testowe](https://docs.google.com/spreadsheets/d/1idT7Ri_q2yWqp_8HM8TKoziOOvCiXoVg/edit?usp=sharing&ouid=101482524898759088533&rtpof=true&sd=true)
-  * [zgłoszone błędy](https://docs.google.com/document/d/1q2mYIH_v13Q50gC_KS7dXJotULh1ZABQ/edit?usp=sharing&ouid=101482524898759088533&rtpof=true&sd=true)
-  * [zgłaszane ulepszenia](https://docs.google.com/document/d/1nWc_ZWM1ZsAMo7Bn--YvCSj7Z6Sxgkb1/edit?usp=sharing&ouid=101482524898759088533&rtpof=true&sd=true)
-  * testowanie dokumentacji: [przypadki użycia](https://docs.google.com/document/d/1KC3LaZTHSrww3INGvQ6gM5F53eMlkn2n/edit), [tablica prześć pomiedzy stanami](https://drive.google.com/drive/folders/1LJ6W82kEvDo74c7Bfwr6uW-dfdsObfs8)
-  * [certyfikat](https://drive.google.com/drive/my-drive)
+  * [mapa myśli](https://drive.google.com/file/d/1ErDh6D-0bjgnDG2G1yMgghMUEZBNYtYp/view?usp=sharing)
+  * [przypadki testowe](https://drive.google.com/file/d/1jEoqLE84p1iFmQbVaRFuodhIzEYVcRWv/view?usp=sharing)
+  * [zgłoszone błędy](https://drive.google.com/file/d/1prWQQacIIXxLYn-b053iaCZqAKcY1ot1/view?usp=sharing)
+  * [zgłaszane ulepszenia](https://drive.google.com/file/d/1tEof8OUIVFvzxLntAEEBZRL0H7k_67e1/view?usp=sharing)
+  * testowanie dokumentacji: [przypadki użycia](https://drive.google.com/file/d/1L_Faa_VBc7PJ_dagUuRxsvakwkIa2iLr/view?usp=sharing), [tablica prześć pomiedzy stanami](https://drive.google.com/file/d/1L_Faa_VBc7PJ_dagUuRxsvakwkIa2iLr/view?usp=sharing)
+  * [certyfikat](https://drive.google.com/file/d/18Bs_CLRwq76ekQNqcyu_TZWPTqHV_4Pe/view?usp=sharing)
 
 * grupowy - testowanie Trello - w trakcie - projekt realizowany podczas praktyk dla testerów manualnych realizowanych przez Cherry-IT mających na celu zapoznanie uczestników z testowaniem eksploracyjnym oraz podstawami testowania Rest Api z wykorzystaniem narzędzia Postman.
  
-  * [mapa funkcjonalności](https://drive.google.com/drive/folders/19w5CR8etzKCERQ4wJq8r49fF8mObvZTz)
-  * [checklista przypadki testowe](https://docs.google.com/spreadsheets/d/19UPJwZ0-tgCygMaiou3ssPjKSHQjmfLB/edit?rtpof=true#gid=739799056)
-  * [raport z testów Rest Api](https://drive.google.com/drive/folders/19w5CR8etzKCERQ4wJq8r49fF8mObvZTz)
+  * [mapa funkcjonalności](https://drive.google.com/file/d/1rShrquWJavMVFG6sDh60I_11oc1VDZ2Z/view?usp=sharing)
+  * [checklista przypadki testowe](https://drive.google.com/file/d/1f8dloKdq9ek5AjipQRGwHWXFHxFz4HUe/view?usp=sharing)
+  * [raport z testów Rest Api](https://drive.google.com/file/d/1BcQHNaznTPh2ryF0u3cczPQ_Gwfsimm7/view?usp=sharing)
  
 
  
