@@ -56,7 +56,7 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
   * [przypadki testowe](https://drive.google.com/file/d/1jEoqLE84p1iFmQbVaRFuodhIzEYVcRWv/view?usp=sharing)
   * [zgłoszone błędy](https://drive.google.com/file/d/1prWQQacIIXxLYn-b053iaCZqAKcY1ot1/view?usp=sharing)
   * [zgłaszane ulepszenia](https://drive.google.com/file/d/1tEof8OUIVFvzxLntAEEBZRL0H7k_67e1/view?usp=sharing)
-  * testowanie dokumentacji: [przypadki użycia](https://drive.google.com/file/d/1L_Faa_VBc7PJ_dagUuRxsvakwkIa2iLr/view?usp=sharing), [tablica prześć pomiedzy stanami](https://drive.google.com/file/d/1L_Faa_VBc7PJ_dagUuRxsvakwkIa2iLr/view?usp=sharing)
+  * testowanie dokumentacji: [przypadki użycia](https://drive.google.com/file/d/1L_Faa_VBc7PJ_dagUuRxsvakwkIa2iLr/view?usp=sharing), [tablica prześć pomiedzy stanami](https://drive.google.com/file/d/1kEXwURxG6SMaP5Y9I7rJeyGPqmr9d9hQ/view?usp=sharing)
   * [certyfikat](https://drive.google.com/file/d/18Bs_CLRwq76ekQNqcyu_TZWPTqHV_4Pe/view?usp=sharing)
 
 * grupowy - testowanie Trello - w trakcie - projekt realizowany podczas praktyk dla testerów manualnych realizowanych przez Cherry-IT mających na celu zapoznanie uczestników z testowaniem eksploracyjnym oraz podstawami testowania Rest Api z wykorzystaniem narzędzia Postman.
