@@ -15,7 +15,8 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 * Testowanie Rest Api: Postman 
 * Tworzenie map myśli: Xmind 
 * Tworzenie diagramów: Lucidchart
-* Github
+* Tworzenie zrzutów: PicPick
+* Git, Github
 
 # Umiejętności
 * Testowanie oprogramowania
