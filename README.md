@@ -53,7 +53,7 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 * indywidualny - testowanie strony aplikacji Listonic - projekt zrealizowany podczas kursu Szkoła testerów QA-courses  mający na celu wprowadzenie do świata testera  oprogramowania.  
 
   * [mapa myśli](https://drive.google.com/file/d/1ErDh6D-0bjgnDG2G1yMgghMUEZBNYtYp/view?usp=sharing)
-  * [przypadki testowe](https://drive.google.com/file/d/1jEoqLE84p1iFmQbVaRFuodhIzEYVcRWv/view?usp=sharing)
+  * [przypadki testowe](https://docs.google.com/spreadsheets/d/1JpYJnRJpIQkXHAnSDGsdZpM-AZk44XDQ/edit?usp=sharing&ouid=101482524898759088533&rtpof=true&sd=true)
   * [zgłoszone błędy](https://drive.google.com/file/d/1prWQQacIIXxLYn-b053iaCZqAKcY1ot1/view?usp=sharing)
   * [zgłaszane ulepszenia](https://drive.google.com/file/d/1tEof8OUIVFvzxLntAEEBZRL0H7k_67e1/view?usp=sharing)
   * testowanie dokumentacji: [przypadki użycia](https://drive.google.com/file/d/1L_Faa_VBc7PJ_dagUuRxsvakwkIa2iLr/view?usp=sharing), [tablica prześć pomiedzy stanami](https://drive.google.com/file/d/1kEXwURxG6SMaP5Y9I7rJeyGPqmr9d9hQ/view?usp=sharing)
