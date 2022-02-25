@@ -48,6 +48,7 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 # Moje przykładowe prace
 * [scenariusz testowy - strona pogoda.onet.pl](https://drive.google.com/file/d/1YqkzfenbhWwTTgPo0vOkc093gFkvrcRt/view?usp=sharing)
 * [zgłoszenia błędów - Redmine](https://drive.google.com/file/d/11WH6iCMS9F_yxbnxAeU5TG3tnqjKiIMt/view?usp=sharing)
+* [bazy danych - mySQL](https://drive.google.com/file/d/1M6PCFSXMODX9Ae4NByEZfFIXdiktZ-Sm/view?usp=sharing)
 
 # Moje projekty
 * indywidualny - testowanie strony aplikacji Listonic - projekt zrealizowany podczas kursu Szkoła testerów QA-courses  mający na celu wprowadzenie do świata testera  oprogramowania.  
