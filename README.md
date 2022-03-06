@@ -5,7 +5,7 @@
 Jestem magistrem chemii, zajmującym się przez kilka lat kontrolą jakości produktów żywnościowych. 
 Obecnie pracuję w laboratorium medycznym, ale w ostatnim czasie zaczęłam zgłębiać temat testowania oprogramowania. Chciałabym rozwijać się w tym kierunku. 
 Jestem osobą odpowiedzialną i zaangażowaną w realizację powierzonych mi zadań. 
-W dotyczchasowej pracy zawodowej zajmowałam się analizą danych, weryfikacją zgodności z dokumentacją jakościową.  
+W dotychczasowej pracy zawodowej zajmowałam się analizą danych, weryfikacją zgodności z dokumentacją jakościową.  
 Moim celem jest zdobycie nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
 Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej pracy zawodowej pomogą mi w realizacji tych założeń.
 
