@@ -16,6 +16,7 @@ Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych
 * Tworzenie diagramów: Lucidchart
 * Tworzenie zrzutów: PicPick
 * Git, Github
+* DevTools
 
 # Umiejętności
 * Testowanie oprogramowania
