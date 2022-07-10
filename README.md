@@ -4,7 +4,7 @@
 # O mnie
  Jestem początkującym testerem oprogramowania, obecnie zdobywam komercyjne doświadczenie zajmując się testowaniem aplikacji mobilnej przeznaczonej do realizacji zakupów dla klientów prowadzących handel detaliczny m.in w branży spożywczej.
  
- Lubię stawiać sobie wyzwania i konsekwentnie dążyć do ich realizacj. Rozwój jest dla mnie bardzo istotnym elementem pracy i angażuję się cała w zdobywanie nowych umiejętności. 
+ Lubię stawiać sobie wyzwania i konsekwentnie dążyć do ich realizacji. Rozwój jest dla mnie bardzo istotnym elementem pracy i angażuję się cała w zdobywanie nowych umiejętności. 
 Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
 
 
@@ -66,7 +66,7 @@ Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych
   * [checklista przypadki testowe](https://drive.google.com/file/d/1f8dloKdq9ek5AjipQRGwHWXFHxFz4HUe/view?usp=sharing)
   * [raport z testów Rest Api](https://drive.google.com/file/d/1BcQHNaznTPh2ryF0u3cczPQ_Gwfsimm7/view?usp=sharing)
   
-- projekt "Odessa" - testowanie aplikacji wykorzystywanej do płatności online przeznaczonej dla uchodźców z Ukrainy   - projekt dla testerów manualnych realizowany przez Cherry-IT.pl mających na celu testowanie eksploracyjne aplikacji w wersji webowej i mobilnej. Projekt realizowany w jezyku angielskim, w metodologii SCRUM. 
+- projekt "Odessa" - testowanie aplikacji wykorzystywanej do płatności online przeznaczonej dla uchodźców z Ukrainy   - projekt dla testerów manualnych realizowany przez Cherry-IT.pl mających na celu testowanie eksploracyjne aplikacji w wersji webowej i mobilnej. Projekt realizowany w języku angielskim, w metodologii SCRUM. 
  
   * [checklista przypadki testowe](https://docs.google.com/spreadsheets/d/1drRu314XZ0PFdutFZ1qPge8SeplBI6J2xd2qzoFkOQQ/edit?usp=sharing)
   * [zgłoszone błędy](https://docs.google.com/document/d/1jXwUVIE0KAu3smP3XuErRmEa1cey4AU962xsyFG_tBU/edit?usp=sharing)
