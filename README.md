@@ -2,12 +2,9 @@
 
 
 # O mnie
-Jestem magistrem chemii, zajmującym się przez kilka lat kontrolą jakości produktów żywnościowych. 
-Obecnie pracuję w laboratorium medycznym, ale w ostatnim czasie zaczęłam zgłębiać temat testowania oprogramowania. Chciałabym rozwijać się w tym kierunku. 
-Jestem osobą odpowiedzialną i zaangażowaną w realizację powierzonych mi zadań. 
-W dotychczasowej pracy zawodowej zajmowałam się analizą danych, weryfikacją zgodności z dokumentacją jakościową.  
-Moim celem jest zdobycie nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
-Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej pracy zawodowej pomogą mi w realizacji tych założeń.
+Jestem początkującym testerem oprogramowania, zajmującym się testowaniem aplikacji mobilnej, przeznaczonej do realizacji zakupów klientów prowadzących handel detaliczny. 
+Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
+
 
 # Narzędzia
 * Zarządzanie projektem, śledzenie błędów: JIRA, Trello
@@ -22,10 +19,10 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
 * Testowanie oprogramowania
 * Tworzenie przypadków testowych
 * Raportowanie błędów
-* Podstawy testowania eksploracyjnego
+* Testowania eksploracyjnego
 * Analiza dokumentacji technicznej: tworzenie diagramów, tworzenie przypadków użycia, map myśli
 * Podstawowa wiedza dotycząca: HTML, CSS, JavaScript, jQuery
-* SCRUM
+* Podstawy SCRUM
 
 # Kursy
 * [SZKOŁA TESTERÓW QA-COURSES](https://qa-courses.com/szkola-testerow)
@@ -60,12 +57,17 @@ Mam nadzieje, że zdobyte przeze mnie umiejętności podczas dotychczasowej prac
   * testowanie dokumentacji: [przypadki użycia](https://drive.google.com/file/d/1L_Faa_VBc7PJ_dagUuRxsvakwkIa2iLr/view?usp=sharing), [tablica prześć pomiedzy stanami](https://drive.google.com/file/d/1kEXwURxG6SMaP5Y9I7rJeyGPqmr9d9hQ/view?usp=sharing)
   * [certyfikat](https://drive.google.com/file/d/18Bs_CLRwq76ekQNqcyu_TZWPTqHV_4Pe/view?usp=sharing)
 
-* grupowy - testowanie Trello - w trakcie - projekt realizowany podczas praktyk dla testerów manualnych realizowanych przez Cherry-IT mających na celu zapoznanie uczestników z testowaniem eksploracyjnym oraz podstawami testowania Rest Api z wykorzystaniem narzędzia Postman.
+* grupowe
+- testowanie Trello  - projekt realizowany podczas praktyk dla testerów manualnych realizowanych przez Cherry-IT mających na celu zapoznanie z testowaniem eksploracyjnym oraz podstawami testowania Rest Api z wykorzystaniem narzędzia Postman.
  
   * [mapa funkcjonalności](https://drive.google.com/file/d/1rShrquWJavMVFG6sDh60I_11oc1VDZ2Z/view?usp=sharing)
   * [checklista przypadki testowe](https://drive.google.com/file/d/1f8dloKdq9ek5AjipQRGwHWXFHxFz4HUe/view?usp=sharing)
   * [raport z testów Rest Api](https://drive.google.com/file/d/1BcQHNaznTPh2ryF0u3cczPQ_Gwfsimm7/view?usp=sharing)
+  
+- projekt "Odessa" - testowanie aplikacji wykorzystywanej do płatności online przeznaczonej dla uchodźców z Ukrainy   - projekt dla testerów manualnych realizowany przez Cherry-IT.pl mających na celu testowanie eksploracyjne aplikacji w wersji webowej i mobilnej. Projekt realizowany w jezyku angielskim, w metodologii SCRUM. 
  
+  * [checklista przypadki testowe](https://docs.google.com/spreadsheets/d/1drRu314XZ0PFdutFZ1qPge8SeplBI6J2xd2qzoFkOQQ/edit?usp=sharing)
+  * [zgłoszone błędy](https://docs.google.com/document/d/1jXwUVIE0KAu3smP3XuErRmEa1cey4AU962xsyFG_tBU/edit?usp=sharing)
 
  
 
