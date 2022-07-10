@@ -3,7 +3,9 @@
 
 # O mnie
 Jestem początkującym testerem oprogramowania, obecnie zdobywam komercyjne doświadczenie zajmując się testowaniem aplikacji mobilnej przeznaczonej do realizacji zakupów dla klientów prowadzących handel detaliczny m.in w branży spożywczej.
+
 Lubię stawiać sobie wyzwania i konsekwentnie dążyć do ich realizacj. Rozwój jest dla mnie bardzo istotnym elementem pracy i angażuję się cała w zdobywanie nowych umiejętności. 
+
 Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
 
 
