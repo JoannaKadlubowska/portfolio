@@ -61,13 +61,13 @@ Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych
   * [certyfikat](https://drive.google.com/file/d/18Bs_CLRwq76ekQNqcyu_TZWPTqHV_4Pe/view?usp=sharing)
 
 * grupowe
-- testowanie Trello  - projekt realizowany podczas praktyk dla testerów manualnych realizowanych przez Cherry-IT mających na celu zapoznanie z testowaniem eksploracyjnym oraz podstawami testowania Rest Api z wykorzystaniem narzędzia Postman.
+- projekt "Trello"  - projekt  zrealizowany podczas praktyk dla testerów manualnych organizowanych przez Cherry-IT.pl, mający na celu zapoznanie z testowaniem eksploracyjnym i podstawami testowania Rest Api z wykorzystaniem narzędzia Postman na podstawie testów dla webowej aplikacji Trello.
  
   * [mapa funkcjonalności](https://drive.google.com/file/d/1rShrquWJavMVFG6sDh60I_11oc1VDZ2Z/view?usp=sharing)
   * [checklista przypadki testowe](https://drive.google.com/file/d/1f8dloKdq9ek5AjipQRGwHWXFHxFz4HUe/view?usp=sharing)
   * [raport z testów Rest Api](https://drive.google.com/file/d/1BcQHNaznTPh2ryF0u3cczPQ_Gwfsimm7/view?usp=sharing)
   
-- projekt "Odessa" - testowanie aplikacji wykorzystywanej do płatności online przeznaczonej dla uchodźców z Ukrainy   - projekt dla testerów manualnych realizowany przez Cherry-IT.pl mających na celu testowanie eksploracyjne aplikacji w wersji webowej i mobilnej. Projekt realizowany w języku angielskim, w metodologii SCRUM. 
+- projekt "Odessa" - testowanie aplikacji wykorzystywanej do płatności online przeznaczonej dla uchodźców z Ukrainy   - projekt dla testerów manualnych zrealizowany przez Cherry-IT.pl mający na celu testowanie eksploracyjne aplikacji w wersji webowej i mobilnej. Projekt realizowany w języku angielskim, w metodologii SCRUM. 
  
   * [checklista przypadki testowe](https://docs.google.com/spreadsheets/d/1drRu314XZ0PFdutFZ1qPge8SeplBI6J2xd2qzoFkOQQ/edit?usp=sharing)
   * [zgłoszone błędy](https://docs.google.com/document/d/1jXwUVIE0KAu3smP3XuErRmEa1cey4AU962xsyFG_tBU/edit?usp=sharing)
