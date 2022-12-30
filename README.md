@@ -34,6 +34,7 @@ Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych
 # Książki
 * R.Smilgin - Zawód tester
 * A.Roman, L.Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
+* M.Moskała - JavaScript od podstaw
 
 # Grupy testerskie
 * Testowanie oprogramowania
