@@ -19,10 +19,10 @@ Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych
 * DevTools
 
 # Umiejętności
-* Testowanie oprogramowania
+* Testowanie manualne oprogramowania
 * Tworzenie przypadków testowych
 * Raportowanie błędów
-* Testowania eksploracyjnego
+* Testowanie eksploracyjne
 * Analiza dokumentacji technicznej: tworzenie diagramów, tworzenie przypadków użycia, map myśli
 * Podstawowa wiedza dotycząca: HTML, CSS, JavaScript, jQuery
 * Podstawy SCRUM
