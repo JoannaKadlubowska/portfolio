@@ -70,8 +70,8 @@ Moim celem jest zdobywanie nowej wiedzy i rozwijanie umiejętności technicznych
   
 - projekt "Odessa" - testowanie aplikacji wykorzystywanej do płatności online przeznaczonej dla uchodźców z Ukrainy   - projekt dla testerów manualnych zrealizowany przez Cherry-IT.pl mający na celu testowanie eksploracyjne aplikacji w wersji webowej i mobilnej. Projekt realizowany w języku angielskim, w metodologii SCRUM. 
  
-  * [checklista przypadki testowe](https://docs.google.com/spreadsheets/d/1drRu314XZ0PFdutFZ1qPge8SeplBI6J2xd2qzoFkOQQ/edit?usp=sharing)
-  * [zgłoszone błędy](https://docs.google.com/document/d/1jXwUVIE0KAu3smP3XuErRmEa1cey4AU962xsyFG_tBU/edit?usp=sharing)
+  * [zgłoszone błędy](https://docs.google.com/spreadsheets/d/1drRu314XZ0PFdutFZ1qPge8SeplBI6J2xd2qzoFkOQQ/edit?usp=sharing)
+  * [checklista przypadki testowe ](https://docs.google.com/document/d/1jXwUVIE0KAu3smP3XuErRmEa1cey4AU962xsyFG_tBU/edit?usp=sharing)
 
  
 
