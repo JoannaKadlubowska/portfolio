@@ -59,10 +59,10 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Rozwój jest dla m
 
 
 # Moje projekty
-- testowanie strony aplikacji Listonic - projekt zrealizowany podczas kursu Szkoła testerów QA-courses  mający na celu wprowadzenie do świata testera  oprogramowania. 
-- projekt "Trello" - projekt wolontariacki - podstawy testowania eksploracyjnego, tworzenia przypadków testowych,  testowania Rest Api z uzyciem narzędzia Postman  webowej wersji aplikacji Trello.
--  projekt "Odessa" - projekt crowdtesterski - testy manualne i  eksploracyjne webowej i mobilnej wersji aplikacji wykorzystywanej do płatności online  dla uchodźców z Ukrainy
--  2/2022 Projekt treningowy - projekt wolontariacki -  testy funkcjonalne aplikacji, testy eksploracyjne, testy manualne z użyciem narzędzia DevTools, tworzenie dokumentacji testerskiej: przypadki testowe oraz zgłoszenia błędów  dla webowej i mobilnej wersji aplikacji Trello.
+- testowanie webowej aplikacji Listonic - projekt zrealizowany podczas kursu Szkoła testerów dla poczatkujących testerów oprogramowania.
+- projekt wolontariacki "Trello" - podstawy testowania eksploracyjnego, tworzenia przypadków testowych, testowania Rest Api z uzyciem narzędzia Postman  webowej wersji aplikacji Trello.
+-  projekt crowdtesterski "Odessa"  - testy manualne i  eksploracyjne webowej i mobilnej wersji aplikacji wykorzystywanej do płatności online  dla uchodźców z Ukrainy
+-  projekt wolontariacki "2/2022 Projekt treningowy" -  testy funkcjonalne aplikacji, testy eksploracyjne, testy manualne z użyciem narzędzia DevTools, tworzenie dokumentacji testerskiej: przypadki testowe oraz zgłoszenia błędów  dla webowej i mobilnej wersji aplikacji Trello.
  
 
 
