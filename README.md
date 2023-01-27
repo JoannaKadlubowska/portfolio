@@ -3,8 +3,7 @@
 
 # O mnie
 Obecnie zdobywam komercyjne doświadczenie zajmując się testowaniem aplikacji mobilnej przeznaczonej do realizacji zakupów w handelu detalicznych branży spożywczej.
-
-Lubię stawiać sobie wyzwania i  dążyć do ich realizacji.   Jestem otwarta na zdobywanie  nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
+Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na zdobywanie  nowej wiedzy i rozwijanie umiejętności technicznych w dziedzinie testowania oprogramowania.
 
 
 # Narzędzia wykorzystywane podczas testowania: 
