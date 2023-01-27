@@ -29,7 +29,8 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 # Kursy
 * QA Courses - Szkoła testerów 
 * Udemy - Podstawy manualnego testowania oprogramowania
-* 
+* Stacja IT - Podstawy Postman
+* GeekON - 25+ zadań z SQLa
 
 # Książki
 * R.Smilgin - Zawód tester
@@ -43,12 +44,13 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 * Grupa ISTQB - egzaminy, pytania, testy
 * Start IT - początkujący tester oprogramowania i programista
 * Programuj dziewczyno!
-* 
+
 
 # Blogi
 * [testerzy.pl](https://testerzy.pl)
 * [testerka.pl](http://testerka.pl)
 * [cherry-IT](http://cherry-it.pl)
+* [jaktestowac.pl](https://jaktestowac.pl) 
 
 # Moja dokumentacja testerska
 * [scenariusz testowy - strona pogoda.onet.pl] - JIRA(https://docs.google.com/spreadsheets/d/1cfL1dMLcAZf5TvbWFS0c2EJZjRQROnNOPvd8CavzG0k/edit?usp=sharing)
