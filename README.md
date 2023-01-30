@@ -29,6 +29,7 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 * Udemy - Podstawy manualnego testowania oprogramowania
 * Stacja IT - Podstawy Postman
 * GeekON - 25+ zadań z SQLa
+* Metodyka Agile w projektach
 
 # Książki
 * R.Smilgin - Zawód tester
