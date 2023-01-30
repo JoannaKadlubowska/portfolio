@@ -53,8 +53,8 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 # Moja dokumentacja testerska
 * [scenariusz testowy](https://drive.google.com/file/d/1s1L-ddaLNvPU7xYaw-rzLhLRCsl9mvta/view?usp=sharing)
 * [zgłoszenia błędów](https://drive.google.com/file/d/1kRLCEOweW8l2MbfHYRiBwok-yuRF4nop/view?usp=share_link)
-* [bazy danych - mySQL] - KURS (https://drive.google.com/file/d/1M6PCFSXMODX9Ae4NByEZfFIXdiktZ-Sm/view?usp=sharing)
-* [raport z testów Rest Api] - Trello (https://drive.google.com/file/d/1BcQHNaznTPh2ryF0u3cczPQ_Gwfsimm7/view?usp=sharing)
+* [bazy danych - mySQL](https://drive.google.com/file/d/1fXRziEUfBfnMLs-k-S2BSgIJyuS6I8oz/view?usp=sharing)
+* [raport z testów Rest Api](https://drive.google.com/file/d/1iO8XmJGAzMT76VF9lpbvRWnZfEpH1Fvh/view?usp=sharing)
 
 
 # Moje projekty
