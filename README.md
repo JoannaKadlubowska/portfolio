@@ -13,8 +13,6 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 * Testowanie Rest Api: Postman 
 * Chrome DevTools
 * Baza danych: MySQL
-* Tworzenie zrzutów i nagrań: PicPick
-* Tworzenie map myśli i digramów: Xmind, Lucidchart 
 * System kontroli wersji: Git, Github
 
 
@@ -53,12 +51,10 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 * [jaktestowac.pl](https://jaktestowac.pl) 
 
 # Moja dokumentacja testerska
-* [scenariusz testowy - strona pogoda.onet.pl] - JIRA(https://docs.google.com/spreadsheets/d/1cfL1dMLcAZf5TvbWFS0c2EJZjRQROnNOPvd8CavzG0k/edit?usp=sharing)
-* [zgłoszenia błędów - Redmine] - JIRA (https://drive.google.com/file/d/11WH6iCMS9F_yxbnxAeU5TG3tnqjKiIMt/view?usp=sharing)
+* [scenariusz testowy](https://drive.google.com/file/d/1s1L-ddaLNvPU7xYaw-rzLhLRCsl9mvta/view?usp=sharing)
+* [zgłoszenia błędów](https://drive.google.com/file/d/1kRLCEOweW8l2MbfHYRiBwok-yuRF4nop/view?usp=share_link)
 * [bazy danych - mySQL] - KURS (https://drive.google.com/file/d/1M6PCFSXMODX9Ae4NByEZfFIXdiktZ-Sm/view?usp=sharing)
-* [mapa myśli] - LISTONIC(https://drive.google.com/file/d/1ErDh6D-0bjgnDG2G1yMgghMUEZBNYtYp/view?usp=sharing)
 * [raport z testów Rest Api] - Trello (https://drive.google.com/file/d/1BcQHNaznTPh2ryF0u3cczPQ_Gwfsimm7/view?usp=sharing)
-* [raport z testów z użyciem DevTools] - Trello
 
 
 # Moje projekty
