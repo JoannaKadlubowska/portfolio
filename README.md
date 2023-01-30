@@ -51,7 +51,7 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 * [jaktestowac.pl](https://jaktestowac.pl) 
 
 # Moja dokumentacja testerska
-* [scenariusz testowy](https://drive.google.com/file/d/1s1L-ddaLNvPU7xYaw-rzLhLRCsl9mvta/view?usp=sharing)
+* [przypadki testowe](https://drive.google.com/file/d/1s1L-ddaLNvPU7xYaw-rzLhLRCsl9mvta/view?usp=sharing)
 * [zgłoszenia błędów](https://drive.google.com/file/d/1kRLCEOweW8l2MbfHYRiBwok-yuRF4nop/view?usp=share_link)
 * [bazy danych - mySQL](https://drive.google.com/file/d/1fXRziEUfBfnMLs-k-S2BSgIJyuS6I8oz/view?usp=sharing)
 * [raport z testów Rest Api](https://drive.google.com/file/d/1iO8XmJGAzMT76VF9lpbvRWnZfEpH1Fvh/view?usp=sharing)
