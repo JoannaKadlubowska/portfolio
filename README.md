@@ -55,7 +55,7 @@ Lubię stawiać sobie wyzwania i  dążyć do ich realizacji. Jestem otwarta na 
 * [przypadki testowe](https://drive.google.com/file/d/1s1L-ddaLNvPU7xYaw-rzLhLRCsl9mvta/view?usp=sharing)
 * [zgłoszenia błędów](https://drive.google.com/file/d/1kRLCEOweW8l2MbfHYRiBwok-yuRF4nop/view?usp=share_link)
 * [bazy danych - mySQL](https://drive.google.com/file/d/1fXRziEUfBfnMLs-k-S2BSgIJyuS6I8oz/view?usp=sharing)
-* [Testy Rest API]([https://drive.google.com/file/d/1iO8XmJGAzMT76VF9lpbvRWnZfEpH1Fvh/view?usp=sharing](https://github.com/JoannaKadlubowska/TrelloAPI_Postman](https://github.com/JoannaKadlubowska/TrelloAPI_Postman.git))
+* [Testy Rest API](https://github.com/JoannaKadlubowska/TrelloAPI_Postman)
 
 
 # Moje projekty
